@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "The react project by namaste react tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vinayadiga7/namaste-react.git"
+  },
+  "author": "Vinay Adiga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayadiga7/namaste-react/issues"
+  },
+  "homepage": "https://github.com/vinayadiga7/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  }
+}
